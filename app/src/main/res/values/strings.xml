@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Curupira Config</string>
+    <string name="BTN_1">OPÇÃO 1</string>
+    <string name="BTN_2">OPCÃO 2</string>
+    <string name="BTN_3">OPÇÃO 3</string>
+    <string name="B_CONECTAR">CONECTAR</string>
+</resources>
